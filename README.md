@@ -73,6 +73,10 @@ pip install -r requirements.txt
 - Common failure modes include mixed sentiment, sarcasm, and label noise in the dataset.
 - Early stopping prevented overfitting across all three models.
 
+## Performance
+
+![Model Comparison](comparison.png)
+
 ## Error Analysis
 
 Out of 1,000 test reviews, RoBERTa misclassified **65**. Most errors involve:
