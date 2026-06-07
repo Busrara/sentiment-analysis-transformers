@@ -76,6 +76,7 @@ pip install -r requirements.txt
 ## Performance
 
 ![Model Comparison](comparison.png)
+![Confusion Matrix](confusion-matrix.png)
 
 ## Error Analysis
 
