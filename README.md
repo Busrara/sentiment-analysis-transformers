@@ -1,5 +1,3 @@
-# sentiment-analysis-transformers
-
 # Sentiment Analysis with Transformers
 
 Fine-tuning and benchmarking BERT, DistilBERT, and RoBERTa for binary sentiment classification on Amazon product reviews.
